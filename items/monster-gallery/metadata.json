@@ -18,6 +18,12 @@
 	},
 	"description_de": "",
 	"features_de": {
+		"0": "Möglichkeit, mehrere Galerien zu erstellen.",
+		"1": "5 Arten der Galeriegestaltung.",
+		"2": "Shortcode kompatibel mit TinyMCE.",
+		"3": "Einfacher Dateibrowser und Uploader.",
+		"4": "Erstellen Sie automatisch Miniaturbilder in der von Ihnen angegebenen Größe.",
+		"5": "Einfache URL-Migration für Galerien."
 	},
 	"description_es": "",
 	"features_es": {
